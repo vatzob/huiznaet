@@ -16,4 +16,4 @@ accent-russian-words-5 = friends
 accent-russian-words-replace-5 = comrades
 
 accent-russian-words-6 = cheers
-accent-russian-words-replace-6 = na zdorovje
+accent-russian-words-replace-6 = на здоровье
