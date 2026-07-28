@@ -357,3 +357,11 @@
     sprite: Structures/Doors/Airlocks/Glass/xeno.rsi
   - type: Paintable
     group: null
+
+- type: entity
+  parent: AirlockGlass
+  id: AirlockWoodGlass
+  suffix:
+  components:
+  - type: Sprite
+    sprite: Structures/Doors/Airlocks/Glass/wood.rsi
