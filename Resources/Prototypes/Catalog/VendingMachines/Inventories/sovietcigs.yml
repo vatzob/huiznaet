@@ -1,0 +1,11 @@
+- type: vendingMachineInventory
+  id: DromCoInventory
+  startingInventory:
+    ClothingHeadHatUshanka: 2
+    DrinkSodaWaterCan: 10 #typically hacked product. Default product is "soda"
+    DrinkSodaWaterBottleFull: 2
+    FoodSnackNutribrick: 6
+    Matchbox: 3
+    CheapLighter: 5
+    CigPackRed: 5
+    CigCartonRed: 2

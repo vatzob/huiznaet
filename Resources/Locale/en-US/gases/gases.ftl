@@ -1,0 +1,9 @@
+gas-oxygen = Кислород
+gas-nitrogen = Азот
+gas-carbon-dioxide = Диоксид углерода
+gas-plasma = Плазма
+gas-tritium = Тритий
+gas-water-vapor = Водяной пар
+gas-ammonia = Аммиак
+gas-nitrous-oxide = Оксид азота
+gas-frezon = Фрезон

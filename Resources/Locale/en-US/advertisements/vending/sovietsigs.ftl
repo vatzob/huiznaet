@@ -1,0 +1,9 @@
+﻿advertisement-sovietsigs-1 = За Товарищей и Союз.
+advertisement-sovietsigs-2 = Лучше чем Номадс!
+advertisement-sovietsigs-3 = Лучшие в Союзе и за его границей.
+advertisement-sovietsigs-4 = Дромедари - сила!
+advertisement-sovietsigs-5 = Номадс - могила!
+advertisement-sovietsigs-6 = Вода по ГОСТу от шестьдесят четвёртого.
+thankyou-sovietsigs-1 = Также попробуйте НАШИ батончики!
+thankyou-sovietsigs-2 = Лучшие в Союзе и за его границей.
+thankyou-sovietsigs-3 = Также воспользуйтесь "НашИнструменты"!

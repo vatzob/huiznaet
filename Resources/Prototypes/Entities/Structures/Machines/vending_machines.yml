@@ -2313,3 +2313,166 @@
       map: ["enum.WiresVisualLayers.MaintenancePanel"]
   - type: AccessReader
     access: [["Medical"]]
+
+- type: entity
+  parent: VendingMachine
+  id: VendingMachineSovietCigs
+  name: ДромКоМат
+  description: Старый торговый автомат, содержащий продукцию Dromedary & Co. Надпись сбоку объясняет почему именно их продукция лучше остальных.
+  suffix: VaTzoB
+  components:
+  - type: VendingMachine
+    pack: DromCoInventory
+    dispenseOnHitChance: 0.25
+    dispenseOnHitThreshold: 2
+    offState: off
+    brokenState: broken
+    normalState: normal-unshaded
+    ejectState: eject-unshaded
+    denyState: deny-unshaded
+    initialStockQuality: 0.33
+  - type: DatasetVocalizer
+    dataset: DromCoAds
+  - type: SpeakOnUIClosed
+    pack: DromCoGoodbyes
+  - type: Sprite
+    sprite: Structures/Machines/VendingMachines/sovietcigs.rsi
+    layers:
+    - state: "off"
+      map: ["enum.VendingMachineVisualLayers.Base"]
+    - state: "off"
+      map: ["enum.VendingMachineVisualLayers.BaseUnshaded"]
+      shader: unshaded
+    - state: panel
+      map: ["enum.WiresVisualLayers.MaintenancePanel"]
+  - type: PointLight
+    radius: 1.5
+    energy: 3.0
+    color: "#389690"
+  - type: RussianAccent
+
+- type: entity
+  parent: VendingMachine
+  id: VendingMachineSovietOurTool
+  name: НашИнструменты
+  description: Старый торговый автомат, содержащий стандартные инструменты. Табличка гласит - Да здравствует Коммунистическая партия!
+  suffix: VaTzoB
+  components:
+  - type: VendingMachine
+    pack: OurToolInventory
+    offState: off
+    brokenState: broken
+    normalState: normal-unshaded
+    ejectState: eject-unshaded
+    denyState: deny-unshaded
+  - type: DatasetVocalizer
+    dataset: OurToolAds
+  - type: SpeakOnUIClosed
+    pack: OurToolGoodbyes
+  - type: Sprite
+    sprite: Structures/Machines/VendingMachines/ourtool.rsi
+    layers:
+    - state: "off"
+      map: ["enum.VendingMachineVisualLayers.Base"]
+    - state: "off"
+      map: ["enum.VendingMachineVisualLayers.BaseUnshaded"]
+      shader: unshaded
+    - state: panel
+      map: ["enum.WiresVisualLayers.MaintenancePanel"]
+  - type: PointLight
+    radius: 1.5
+    energy: 3.0
+    color: "#d4ab33"
+
+- type: entity
+  parent: VendingMachine
+  id: VendingMachineSuit
+  name: Suitlord9000
+  description: На мгновение ты задумываешься, почему все твои рубашки и брюки сшиты вместе. От этого у тебя начинает болеть голова, и ты перестаешь об этом думать.
+  components:
+  - type: VendingMachine
+    pack: SuitlordInventory
+    offState: off
+    brokenState: broken
+    normalState: normal-unshaded
+    denyState: deny-unshaded
+  - type: DatasetVocalizer
+    dataset: ClothesMateAds
+  - type: SpeakOnUIClosed
+    pack: GenericVendGoodbyes
+  - type: Sprite
+    sprite: Structures/Machines/VendingMachines/suitlord.rsi
+    layers:
+    - state: "off"
+      map: ["enum.VendingMachineVisualLayers.Base"]
+    - state: "off"
+      map: ["enum.VendingMachineVisualLayers.BaseUnshaded"]
+      shader: unshaded
+    - state: panel
+      map: ["enum.WiresVisualLayers.MaintenancePanel"]
+  - type: PointLight
+    radius: 1.8
+    energy: 3.0
+    color: "#3db83b"
+
+- type: entity
+  parent: VendingMachine
+  id: VendingMachineHat
+  name: Hatlord9000
+  description: В этом нет ничего необычного. Это вас очень расстраивает.
+  components:
+  - type: VendingMachine
+    pack: HatlordInventory
+    offState: off
+    brokenState: broken
+    normalState: normal-unshaded
+    denyState: deny-unshaded
+  - type: DatasetVocalizer
+    dataset: ClothesMateAds
+  - type: SpeakOnUIClosed
+    pack: GenericVendGoodbyes
+  - type: Sprite
+    sprite: Structures/Machines/VendingMachines/hatlord.rsi
+    layers:
+    - state: "off"
+      map: ["enum.VendingMachineVisualLayers.Base"]
+    - state: "off"
+      map: ["enum.VendingMachineVisualLayers.BaseUnshaded"]
+      shader: unshaded
+    - state: panel
+      map: ["enum.WiresVisualLayers.MaintenancePanel"]
+  - type: PointLight
+    radius: 1.8
+    energy: 3.0
+    color: "#3db83b"
+
+- type: entity
+  parent: VendingMachine
+  id: VendingMachineShoe
+  name: Shoelord9000
+  description: Оу, шляпы у Hatlord такие классные, костюмы у Suitlord такие элегантные, а у этого всё такое обычное... Дизайнер, должно быть, идиот.
+  components:
+  - type: VendingMachine
+    pack: ShoelordInventory
+    offState: off
+    brokenState: broken
+    normalState: normal-unshaded
+    denyState: deny-unshaded
+  - type: DatasetVocalizer
+    dataset: ClothesMateAds
+  - type: SpeakOnUIClosed
+    pack: GenericVendGoodbyes
+  - type: Sprite
+    sprite: Structures/Machines/VendingMachines/shoelord.rsi
+    layers:
+    - state: "off"
+      map: ["enum.VendingMachineVisualLayers.Base"]
+    - state: "off"
+      map: ["enum.VendingMachineVisualLayers.BaseUnshaded"]
+      shader: unshaded
+    - state: panel
+      map: ["enum.WiresVisualLayers.MaintenancePanel"]
+  - type: PointLight
+    radius: 1.8
+    energy: 3.0
+    color: "#3db83b"

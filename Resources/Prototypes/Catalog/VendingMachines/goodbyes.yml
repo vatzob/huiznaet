@@ -113,6 +113,18 @@
     count: 3
 
 - type: localizedDataset
+  id: OurToolGoodbyes
+  values:
+    prefix: thankyou-ourtool-
+    count: 3
+
+- type: localizedDataset
+  id: DromCoGoodbyes
+  values:
+    prefix: thankyou-sovietsigs-
+    count: 3
+
+- type: localizedDataset
   id: SyndieDrobeGoodbyes
   values:
     prefix: thankyou-syndiedrobe-
