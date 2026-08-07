@@ -1,0 +1,20 @@
+job-description-senior-officer = Инструктор СБ должен обучать кадетов или офицеров основным профессиональным навыкам отдела.
+job-description-senior-engineer = Ведущий инженер должен обучать технических ассистентов базовым знаниям инженерного отдела.
+job-description-senior-physician = Ведущий врач обязан обучать интернов всем аспектам медицинского дела.
+job-description-senior-researcher = Ваша обязанность - обучать всему необходимому ваших подопечных.
+job-description-senior-service = Сервисный администратор обучает молодых сервисников, чтобы они приносили пользу своему отделу.
+job-description-magistrate = Магистрат обязан быть гарантом корпоративного закона, координировать юридический отдел.
+job-description-nanotrasen-representative = Представитель НаноТрейзен является независимым инспектором корпоративного порядка на станции.
+job-description-prisoner = Заключённый космической станции... Что может быть лучше?
+job-description-blueshield = Ваша главная цель - защитить глав станции. Помните, вы не офицер СБ.
+job-description-deathsquad = Член эскадрона смерти. Уничтожьте всё живое!
+
+job-description-migo = Вы - возвысившийся культист. Ваша задача - постройка баз, вербовка новых служителей, лечение и разведка.
+
+job-description-security-pet = Питомец службы безопасности. Издевайтесь над офицерами или помогайте им.
+
+job-description-space-dragon = { roles-antag-dragon-objective }
+
+job-description-syndicate-borg = { ghost-role-information-syndicate-cyborg-description }
+
+job-description-syndicate-reinforcement = { ghost-role-information-syndicate-reinforcement-description }

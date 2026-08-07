@@ -1,0 +1,15 @@
+- type: vendingMachineInventory
+  id: OurToolInventory
+  startingInventory:
+    CrowbarRed: 3
+    WelderMini: 2
+    Wirecutter: 2
+    Wrench: 1
+    Screwdriver: 2
+    FlashlightLantern: 5
+    ClothingHandsGlovesFingerlessInsulated: 2
+    CigPackRed: 2
+  # Some engineer forgot to take the multitool out the youtool when working on it, happens.
+  contrabandInventory:
+    DrinkVodkaBottleFull: 1
+    ClothingHeadHatUshanka: 2

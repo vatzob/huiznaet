@@ -1,0 +1,11 @@
+# DO NOT ADD MORE, USE UNIFORM DYING
+- type: vendingMachineInventory
+  id: HatlordInventory
+  startingInventory:
+    ClothingHeadHatBowlerHat: 10
+    ClothingHeadHatBeaverHat: 10
+    ClothingHeadHatStrawHat: 10
+    ClothingHeadHatFedoraGrey: 10
+    ClothingHeadHatFedoraBrown: 10
+    ClothingHeadHatFez: 10
+    ClothingHeadHatBeret: 10

@@ -1,0 +1,9 @@
+﻿advertisement-ourtool-1 = Наши Инструменты!
+advertisement-ourtool-2 = Инструменты по ГОСТу от сорок пятого года.
+advertisement-ourtool-3 = Лучшие в Союзе и за его границей.
+advertisement-ourtool-4 = Дромедари - сила!
+advertisement-ourtool-5 = За мной не заржавеет!
+advertisement-ourtool-6 = Гаечный ключ на 12!
+thankyou-ourtool-1 = Также попробуйте НАШИ батончики!
+thankyou-ourtool-2 = За нами не заржавеет!
+thankyou-ourtool-3 = Также воспользуйтесь "ДромКоМат"!

@@ -1,0 +1,20 @@
+- type: parallax
+  id: Blank
+
+- type: parallax
+  id: oldspace
+  layers:
+    - texture:
+        !type:ImageParallaxTextureSource
+        path: "/Textures/Parallaxes/oldspace.png"
+      slowness: 0.998046875
+      scale: "1, 1"
+# Because hyperspace and the menu need their own.
+- type: parallax
+  id: FastSpace
+  layers:
+    - texture:
+        !type:ImageParallaxTextureSource
+        path: "/Textures/Parallaxes/oldspace.png"
+      slowness: 0.5
+      scale: "3, 3"

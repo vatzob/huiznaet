@@ -1,0 +1,57 @@
+- type: entity
+  abstract: true
+  parent: BaseSign
+  id: PosterSovietBase
+  components:
+  - type: Sprite
+    sprite: Structures/Wallmounts/dromedary.rsi
+  - type: Damageable
+    damageModifierSet: Card
+  - type: Destructible
+    thresholds:
+    - trigger:
+        !type:DamageTrigger
+        damage: 5
+      behaviors:
+      - !type:PlaySoundBehavior
+        sound:
+          path: /Audio/Effects/poster_broken.ogg
+      - !type:SpawnEntitiesBehavior
+        spawn:
+          PosterBroken:
+            min: 1
+            max: 1
+        offset: 0
+  - type: Construction
+    graph: PosterGraph
+    node: start
+
+- type: entity
+  parent: PosterSovietBase
+  id: PosterSovietDromedary
+  suffix: VaTzoB
+  name: "Кури!"
+  description: "Плакат рекламирующий продукцию компании Dromedary & Co."
+  components:
+  - type: Sprite
+    state: bagelmap
+
+- type: entity
+  parent: PosterSovietBase
+  id: PosterSovietBODA
+  suffix: VaTzoB
+  name: "Пей!"
+  description: "Этот плакат призывает вас отведать газированной воды. Внизу написано - по ГОСТу от 2564 года"
+  components:
+  - type: Sprite
+    state: deltamap
+
+- type: entity
+  parent: PosterSovietBase
+  id: PosterSovietEat
+  suffix: VaTzoB
+  name: "Ешь."
+  description: "Этот плакат призывает вас отведать питательные батончики по ГОСТу от 2568 года."
+  components:
+  - type: Sprite
+    state: marathonmap

@@ -1,0 +1,18 @@
+# DO NOT ADD MORE, USE UNIFORM DYING
+- type: vendingMachineInventory
+  id: SuitlordInventory
+  startingInventory:
+    ClothingUniformJumpsuitColorBlack: 10
+    ClothingUniformJumpsuitColorBlue: 10
+    ClothingUniformJumpsuitColorGreen: 10
+    ClothingUniformJumpsuitColorGrey: 10
+    ClothingUniformJumpsuitColorPink: 10
+    ClothingUniformJumpsuitColorRed: 10
+    ClothingUniformJumpsuitColorWhite: 10
+    ClothingUniformJumpsuitColorYellow: 10
+    ClothingUniformJumpsuitColorPurple: 10
+    ClothingUniformJumpsuitColorDarkGreen: 10
+    ClothingUniformJumpsuitColorLightBrown: 10
+    ClothingUniformJumpsuitColorBrown: 10
+    ClothingUniformJumpsuitColorDarkBlue: 10
+    ClothingUniformColorRainbow: 1

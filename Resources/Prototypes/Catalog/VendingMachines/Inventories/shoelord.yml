@@ -1,0 +1,13 @@
+# DO NOT ADD MORE, USE UNIFORM DYING
+- type: vendingMachineInventory
+  id: ShoelordInventory
+  startingInventory:
+    ClothingShoesColorBlack: 10
+    ClothingShoesColorBrown: 10
+    ClothingShoesColorBlue: 10
+    ClothingShoesColorGreen: 10
+    ClothingShoesColorYellow: 10
+    ClothingShoesColorPurple: 10
+    ClothingShoesColorRed: 10
+    ClothingShoesColorWhite: 10
+    ClothingShoesBootsLaceup: 10

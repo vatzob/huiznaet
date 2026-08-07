@@ -251,6 +251,18 @@
     count: 6
 
 - type: localizedDataset
+  id: OurToolAds
+  values:
+    prefix: advertisement-ourtool-
+    count: 6
+
+- type: localizedDataset
+  id: DromCoAds
+  values:
+    prefix: advertisement-sovietsigs-
+    count: 6
+
+- type: localizedDataset
   id: SyndieDrobeAds
   values:
     prefix: advertisement-syndiedrobe-

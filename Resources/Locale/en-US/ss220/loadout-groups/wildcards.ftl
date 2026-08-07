@@ -1,0 +1,1 @@
+loadout-group-gloves = Перчатки

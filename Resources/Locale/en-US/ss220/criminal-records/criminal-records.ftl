@@ -1,0 +1,43 @@
+criminal-records-ui-window-search-placeholder = Поиск...
+criminal-records-ui-unknown = Неизвестно
+criminal-records-ui-unknown-job = Должность неизвестна
+criminal-records-ui-no-department = Без отдела
+criminal-records-ui-flavor-right = Конфиденциальные данные. Только для уполномоченных лиц.
+criminal-records-ui-message-placeholder = Дополнительная информация (макс. 200 символов)
+criminal-records-ui-no-status = Без статуса
+criminal-records-ui-cryo-group = Ушли в крио
+criminal-records-ui-delete-dialog = Удалить эту запись?
+criminal-records-ui-no-access = Отказано в доступе.
+criminal-records-ui-name = Имя Фамилия
+criminal-records-ui-link-id-to-record = Привязать ID-карту к этой записи
+criminal-records-ui-criminal-records-text = Криминальные записи:
+criminal-records-ui-change-status = Сменить статус
+criminal-records-ui-change-status-with-time = Сменить статус ({$time})
+criminal-records-ui-save-button = Сохранить
+criminal-records-ui-save-button-with-time = Сохранить ({$time})
+criminal-records-ui-discard-button = Отмена
+criminal-records-ui-choose-record-left = Выберите запись слева
+criminal-records-ui-chosen-id = ID: НТ-{$key}
+criminal-records-ui-no-chosen-record = Не выбрана запись
+
+
+criminal-status-wanted = В розыске
+criminal-status-search = Обыскать
+criminal-status-monitor = Следить
+criminal-status-execute = Казнить
+criminal-status-demote = Увольнение
+criminal-status-paroled = Патруль
+criminal-status-incarcerated = Заключенный
+criminal-status-discharged = Вышел из заключения
+criminal-status-suspected = Подозреваемый
+
+criminal-status-wanted-report = {$target} был объявлен в розыск! Причина: {$reason}
+criminal-status-execute-report = {$target} был приговорён к казни! Причина: {$reason}
+criminal-status-demote-report = {$target} в розыске для увольнения! Причина: {$reason}
+criminal-status-suspected-report = {$target} под подозрением! Причина: {$reason}
+
+criminal-status-cooldown-popup = Вы пытаетесь добавлять записи слишком часто.
+
+criminal-show-record-type-null = [bold]Без статуса: [/bold]
+criminal-show-record-type-found = [color={ $color }][bold]{ $name }:[/bold][/color]
+criminal-show-record-time = [bold][color=green]Статус поставлен в:[/color] {$time}[/bold]

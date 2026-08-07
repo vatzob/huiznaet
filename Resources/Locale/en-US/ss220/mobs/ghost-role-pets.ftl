@@ -1,0 +1,114 @@
+ent-MobCatRuntimeGhostRole = { ent-MobCatRuntime }
+    .desc = { ent-MobCatRuntime.desc }
+ent-SpawnMobCatRuntimeGhostRole = Спавнер { ent-MobCatRuntime }
+ghost-role-information-runtime-name = { ent-MobCatRuntime }
+ghost-role-information-runtime-description = { ent-MobCatRuntime.desc }
+
+ent-MobCatExceptionGhostRole = { ent-MobCatException }
+    .desc = { ent-MobCatException.desc }
+ent-SpawnMobCatExceptionGhostRole = Спавнер { ent-MobCatException }
+ghost-role-information-exception-name = { ent-MobCatException }
+ghost-role-information-exception-description = { ent-MobCatException.desc }
+
+ent-MobCatFloppaGhostRole = { ent-MobCatFloppa }
+    .desc = { ent-MobCatFloppa.desc }
+ent-SpawnMobCatFloppaGhostRole = Спавнер { ent-MobCatFloppa }
+ghost-role-information-floppa-name = { ent-MobCatFloppa }
+ghost-role-information-floppa-description = { ent-MobCatFloppa.desc }
+
+ent-MobBanditoGhostRole = { ent-MobBandito }
+    .desc = { ent-MobBandito.desc }
+ent-SpawnMobBanditoGhostRole = Спавнер { ent-MobBandito }
+ghost-role-information-bandito-name = { ent-MobBandito }
+ghost-role-information-bandito-description = { ent-MobBandito.desc }
+
+ent-MobBingusGhostRole = { ent-MobBingus }
+    .desc = { ent-MobBingus.desc }
+ent-SpawnMobBingusGhostRole = Спавнер { ent-MobBingus }
+ghost-role-information-bingus-name = { ent-MobBingus }
+ghost-role-information-bingus-description = { ent-MobBingus.desc }
+
+ent-MobMcGriffGhostRole = { ent-MobMcGriff }
+    .desc = { ent-MobMcGriff.desc }
+ent-SpawnMobMcGriffGhostRole = Спавнер { ent-MobMcGriff }
+ghost-role-information-mcgriff-name = { ent-MobMcGriff }
+ghost-role-information-mcgriff-description = { ent-MobMcGriff.desc }
+
+ent-MobPaperworkGhostRole = { ent-MobPaperwork }
+    .desc = { ent-MobPaperwork.desc }
+ent-SpawnMobPaperworkGhostRole = Спавнер { ent-MobPaperwork }
+ghost-role-information-paperwork-name = { ent-MobPaperwork }
+ghost-role-information-paperwork-description = { ent-MobPaperwork.desc }
+
+ent-MobWalterGhostRole = { ent-MobWalter }
+    .desc = { ent-MobWalter.desc }
+ent-SpawnMobWalterGhostRole = Спавнер { ent-MobWalter }
+ghost-role-information-walter-name = { ent-MobWalter }
+ghost-role-information-walter-description = { ent-MobWalter.desc }
+
+ent-MobPossumMortyGhostRole = { ent-MobPossumMorty }
+    .desc = { ent-MobPossumMorty.desc }
+ent-SpawnMobPossumMortyGhostRole = Спавнер { ent-MobPossumMorty }
+ghost-role-information-morty-name = { ent-MobPossumMorty }
+ghost-role-information-morty-description = { ent-MobPossumMorty.desc }
+
+ent-MobPossumPoppyGhostRole = { ent-MobPossumPoppy }
+    .desc = { ent-MobPossumPoppy.desc }
+ent-SpawnMobPossumPoppyGhostRole = Спавнер { ent-MobPossumPoppy }
+ghost-role-information-poppy-name = { ent-MobPossumPoppy }
+ghost-role-information-poppy-description = { ent-MobPossumPoppy.desc }
+
+ent-MobRaccoonMorticiaGhostRole = { ent-MobRaccoonMorticia }
+    .desc = { ent-MobRaccoonMorticia.desc }
+ent-SpawnMobRaccoonMorticiaGhostRole = Спавнер { ent-MobRaccoonMorticia }
+ghost-role-information-morticia-name = { ent-MobRaccoonMorticia }
+ghost-role-information-morticia-description = { ent-MobRaccoonMorticia.desc }
+
+ent-MobAlexanderGhostRole = { ent-MobAlexander }
+    .desc = { ent-MobAlexander.desc }
+ent-SpawnMobAlexanderGhostRole = Спавнер { ent-MobAlexander }
+ghost-role-information-alexander-name = { ent-MobAlexander }
+ghost-role-information-alexander-description = { ent-MobAlexander.desc }
+
+ent-MobSpiderShivaGhostRole = { ent-MobSpiderShiva }
+    .desc = { ent-MobSpiderShiva.desc }
+ent-SpawnMobSpiderShivaGhostRole = Спавнер { ent-MobSpiderShiva }
+ghost-role-information-shiva-name = { ent-MobSpiderShiva }
+ghost-role-information-shiva-description = { ent-MobSpiderShiva.desc }
+
+ent-MobKangarooWillowGhostRole = { ent-MobKangarooWillow }
+    .desc = { ent-MobKangarooWillow.desc }
+ent-SpawnMobKangarooWillowGhostRole = Спавнер { ent-MobKangarooWillow }
+
+ent-MobSlimesPetGhostRole = { ent-MobSlimesPet }
+    .desc = { ent-MobSlimesPet.desc }
+ent-SpawnMobSlimesPetGhostRole = Спавнер { ent-MobSlimesPet }
+ghost-role-information-pet-slime-name = { ent-MobSlimesPet }
+ghost-role-information-pet-slime-description = { ent-MobSlimesPet.desc }
+
+ent-MobSpaceCatPetGhostRole = { ent-MobCatSpace }
+    .desc = { ent-MobCatSpace.desc }
+ent-SpawnMobSpaceCatPetGhostRole = Спавнер { ent-MobCatSpace }
+ghost-role-information-pet-spacecat-name = { ent-MobCatSpace }
+ghost-role-information-pet-spacecat-description = { ent-MobCatSpace.desc }
+
+ent-MobENGhostRole = { ent-MobEN }
+    .desc = { ent-MobEN.desc }
+ent-SpawnMobENGhostRole = Спавнер { ent-MobEN }
+
+ent-MobStevenCrocodileGhostRole = стивен
+    .desc = Белоснежный крокодил с золотым ошейником, олицетворение роскоши и правосудия, любимый питомец судьи, который  обожает пожевать протоколы дел и похрустеть доказательствами.
+ent-SpawnMobStevenCrocodile = Спавнер Стивена
+ghost-role-information-pet-steven-name = Стивен
+ghost-role-information-pet-steven-description = Питомец Магистрата. Символ статуса и силы, преданный друг своего хозяина, который не прочь прикусить деловые бумаги и поиграть с финансовыми документами.
+
+ent-MobRabbitBnuuyGhostRole = Бнууй
+    .desc = { ent-MobRabbitBnuuy.desc }
+    .suffix = Роль
+
+ent-SpawnMobRabbitBnuuyPetGhostRole = Спавнер Бнууя
+ghost-role-information-pet-bnuuy-name = Бнууй
+ghost-role-information-pet-bnuuy-description = Любимый декоративный кролик Смотрителя. Следите за оружейной и не спускайте взгляд с нерасторопных офицеров!
+
+ghost-role-information-security-pet-Roxi-name = Рокси
+ghost-role-information-security-pet-Roxi-description = Собака службы безопасности. Издевайтесь над офицерами, чтобы погладить их по голове и преследовать жестоких преступников по пятам.
